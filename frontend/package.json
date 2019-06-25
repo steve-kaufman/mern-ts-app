@@ -18,6 +18,7 @@
     "@typescript-eslint/parser": "^1.11.0",
     "awesome-typescript-loader": "^5.2.1",
     "bootstrap": "^4.3.1",
+    "css-loader": "^3.0.0",
     "eslint-plugin-react": "^7.14.2",
     "file-loader": "^4.0.0",
     "html-loader": "^0.5.5",
@@ -29,6 +30,7 @@
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
     "source-map-loader": "^0.2.4",
+    "style-loader": "^0.23.1",
     "typescript": "^3.5.2",
     "webpack": "^4.35.0",
     "webpack-cli": "^3.3.5"
